@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Neues Dokument 1">
+   sodipodi:docname="Mockup.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,12 +26,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="43.667233"
-     inkscape:cy="169.60833"
+     inkscape:cy="150.41543"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1444"
-     inkscape:window-height="859"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,45 +181,45 @@
        d="m -1094.2858,-167.63782 a 20,20 0 1 1 -40,0 20,20 0 1 1 40,0 z"
        transform="translate(438.57143,428.57143)" />
     <rect
-       style="fill:none;stroke:#969696;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#969696;stroke-width:3.21388912;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3793"
-       width="58.321239"
-       height="58.321239"
-       x="-748.38922"
-       y="392.86636"
+       width="37.095352"
+       height="37.883995"
+       x="-749.28229"
+       y="391.9733"
        ry="0" />
     <text
-       transform="scale(0.87986128,1.1365428)"
+       transform="scale(0.87065495,1.1485606)"
        sodipodi:linespacing="125%"
        id="text3805"
-       y="393.77252"
-       x="-771.31366"
-       style="font-size:64.42852783px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       y="372.19409"
+       x="-809.64783"
+       style="font-size:41.4132309px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         y="393.77252"
-         x="-771.31366"
+         y="372.19409"
+         x="-809.64783"
          id="tspan3807"
          sodipodi:role="line">Re</tspan></text>
     <rect
        ry="0"
-       y="392.86636"
-       x="-562.38922"
-       height="58.321239"
-       width="58.321239"
+       y="391.9733"
+       x="-630.97656"
+       height="37.883995"
+       width="37.095352"
        id="rect3809"
-       style="fill:none;stroke:#969696;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;stroke:#969696;stroke-width:3.21388912;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        xml:space="preserve"
-       style="font-size:64.42852783px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-559.91803"
-       y="393.77252"
+       style="font-size:41.4132309px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-673.7674"
+       y="372.19409"
        id="text3811"
        sodipodi:linespacing="125%"
-       transform="scale(0.87986128,1.1365428)"><tspan
+       transform="scale(0.87065495,1.1485606)"><tspan
          sodipodi:role="line"
          id="tspan3813"
-         x="-559.91803"
-         y="393.77252">Kontra</tspan></text>
+         x="-673.7674"
+         y="372.19409">Kontra</tspan></text>
     <g
        id="g3829"
        transform="translate(642.45702,-30.304576)">
