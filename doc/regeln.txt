@@ -9,8 +9,16 @@ Solo (Still, Damen, Buben, Farb, Ass)
 Fuchs geklaut
 Karlchen am End
 
+Wird vor dem Mischen für die nächste Runde vergessen, die Punkte zu zählen, werden nur die Sonder-Tacken gewertet, also weder An- noch Absagen noch Gewonnen oder Punkt-Tacken, da nicht mehr festgestellt werden kann, welche Partei gewonnen hat.
+
 Hochzeit
 --------
-Erster Stich (Trumpf/Fehl) in fremder Hand heiratet den Hochzeiter. Hat der Hochzeiter keinen Fehl auf der Hand, sollte er Trumpfstich ansagen, da kein Fehlstich durchgeht und so keine Hochzeit stattfinden kann.
+Erster Stich (Trumpf/Fehl) in fremder Hand heiratet den Hochzeiter. Hat der Hochzeiter keinen Fehl auf der Hand, sollte er Trumpfstich ansagen, da kein Fehlstich durchgehen kann und so keine Hochzeit stattfindet.
 
+Schweinerei
+-----------
+Die Schweinerei muss beim ersten Stich, in dem ein Schwein gespielt wird, angesagt werden. Wird dies vergessen, zählen beide Schweine einfach als Füchse.
 
+Schwarz verloren
+----------------
+Wird falsch bedient, wird die Runde so gewertet, als hätte die entsprechende Partei mit 0 Punkten verloren. Das gilt auch, wenn die Parteien zu dem Zeitpunkt noch nicht eindeutig feststehen. Sondertacken werden gewertet.
