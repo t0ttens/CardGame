@@ -22,3 +22,14 @@ Die Schweinerei muss beim ersten Stich, in dem ein Schwein gespielt wird, angesa
 Schwarz verloren
 ----------------
 Wird falsch bedient, wird die Runde so gewertet, als hätte die entsprechende Partei mit 0 Punkten verloren. Das gilt auch, wenn die Parteien zu dem Zeitpunkt noch nicht eindeutig feststehen. Sondertacken werden gewertet.
+
+Kriterien für neue Karten
+-------------------------
+mindestens 5 Könige auf der Hand
+mindestens 80 Augen auf der Hand
+keine Karte höher als Fuchs
+
+Wenn Kontra gewinnt
+-------------------
+gehen Hochzeit- oder Solo-Tacken auch an die Kontra-Partei
+
